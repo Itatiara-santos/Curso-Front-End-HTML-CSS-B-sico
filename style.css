@@ -1,0 +1,17 @@
+.texto {
+    padding: 20px;
+    margin: 40px;
+}
+
+.padrao {
+    background-color: #F5F5F5;
+}
+
+.destaque {
+    background-color: #F0CCE2
+}
+
+html{
+    background-color: blueviolet;
+}
+
